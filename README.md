@@ -43,7 +43,7 @@ Meu espaço dev ✨ mostrando quem eu sou, o que faço e o que estou aprendendo 
 ### 💌 Contato
 📧 sabrinna.fernandes@sempreceub.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://br.linkedin.com/in/sabrinna-louise-cortes-fernandes-6aabb5290)
-
+Aproveite e acesse o site: https://sabrinnalouise.github.io/Minha-Pessoa/
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7C8E0&lines=Codificando+soluções+do+futuro.;Cybersegurança+protege+nossa+era.;Compilando+e+executando+sonhos.;Em+constante+evolução+como+dev.;Com+fé,+foco+e+muito+código!">
